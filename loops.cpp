@@ -4,10 +4,10 @@ int main()
 {
     int a = 10;
     int b = 20;
-    int sum;
+    int multiply;
 
-    sum = a + b;
-    cout<<" sum of a+b is:"<<sum<<endl;
+    sum = a * b;
+    cout<<"multiplication of a*b is:"<<sum<<endl;
 
     return 0;
 }
