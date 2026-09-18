@@ -9,5 +9,10 @@ int main()
     sum = a + b;
     cout<<" sum of a+b is:"<<sum<<endl;
 
+    //Manpreet
+    k=10;
+    while(k>1){
+        cout<<k<<endl;}
+
     return 0;
 }
