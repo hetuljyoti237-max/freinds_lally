@@ -6,11 +6,11 @@ int main()
     int b = 20;
     int sub;
 
-    sum = a - b;
+    int sum = a - b;
     cout<<" sub of a-b is:"<<sum<<endl;
 
     //Manpreet
-    k=10;
+    int k=10;
     while(k>1){
         cout<<k<<endl;
         k--;
