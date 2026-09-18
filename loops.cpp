@@ -6,8 +6,8 @@ int main()
     int b = 20;
     int sub;
 
-    int sum = a - b;
-    cout<<" sub of a-b is:"<<sum<<endl;
+    sub = a - b;
+    cout<<" sub of a-b is:"<<sub<<endl;
 
     //Manpreet
     int k=10;
