@@ -9,4 +9,11 @@ int main()
         count++;
     }
     cout<<"cout";
+    //Manpreet
+    int k=10
+    while(k>1)
+    {
+        cout<<k<<endl;
+        k-=1;
+    }
 }
